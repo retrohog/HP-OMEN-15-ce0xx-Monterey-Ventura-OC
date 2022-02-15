@@ -1,4 +1,11 @@
 # HP-OMEN-15-ce0xx-Monterey-OC
+****SPECS****
+CPU- I5-73000HQ
+IGPU- INTEL HD 630
+DGPU- GTX 1050TI Disabled
+Audio- ALC295 (Layout-id=3)
+Wifi and Bluetooth- Intel Dual band AC
+
 ***THINGS TO REMEMBER****
 1. Flash your own SMBIOS from SMBIOSGen
 2. Reset NVRAM for sure
@@ -7,7 +14,7 @@
 
 That's all
 
-*GUIDE FOR UNLOCKING CFG LOCK*
+*****GUIDE FOR UNLOCKING CFG LOCK****
 1. Download Latest Bios firmware ( it will be downloaded in exe format so run it once and it will extract the files in C drive *Run on Windows*)
 2. Download Ifrextract from here- https://github.com/donovan6000/Universal-IFR-Extractor.git
 3. Download UEFITool from here- https://github.com/LongSoft/UEFITool.git
