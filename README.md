@@ -7,6 +7,8 @@
   <li>Wifi and Bluetooth- Intel Dual Band AC</li>
 <br>
 ***THINGS TO REMEMBER****
+
+
 1. Flash your own SMBIOS from SMBIOSGen by acidanthera
 2. Reset NVRAM for sure
 3. Charge once full to 100% and drain the battery fully it will calibrate and improve the battery life.
@@ -15,7 +17,6 @@
 That's all
 
 *****GUIDE FOR UNLOCKING CFG LOCK****
-
 
 1. Download Latest Bios firmware ( it will be downloaded in exe format so run it once and it will extract the files in C drive *Run on Windows*)
 2. Download Ifrextract from here- https://github.com/donovan6000/Universal-IFR-Extractor.git
