@@ -1,12 +1,13 @@
 # HP-OMEN-15-ce0xx-Monterey-OC
 ****SPECS****
 <li>
-<ul>CPU- I5-73000HQ
-IGPU- INTEL HD 630
-DGPU- GTX 1050TI Disabled
-Audio- ALC295 (Layout-id=3)
-Wifi and Bluetooth- Intel Dual Band AC
+  <ul>CPU- I5-73000HQ</ul>
+  <ul>IGPU- INTEL HD 630</ul>
+  <ul>DGPU- GTX 1050TI Disabled</ul>
+  <ul>Audio- ALC295 (Layout-id=3)</ul>
+  <ul>Wifi and Bluetooth- Intel Dual Band AC</ul>
 </li>
+
 ***THINGS TO REMEMBER****
 1. Flash your own SMBIOS from SMBIOSGen
 2. Reset NVRAM for sure
