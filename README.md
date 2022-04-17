@@ -1,18 +1,17 @@
 # HP-OMEN-15-ce0xx-Monterey-OC
 ****SPECS****
 <li>
-  <ul>CPU- I5-73000HQ</ul>
-  <ul>IGPU- INTEL HD 630</ul>
-  <ul>DGPU- GTX 1050TI Disabled</ul>
-  <ul>Audio- ALC295 (Layout-id=3)</ul>
-  <ul>Wifi and Bluetooth- Intel Dual Band AC</ul>
-</li>
+  <li>CPU- I5-73000HQ</li>
+  <li>IGPU- INTEL HD 630</li>
+  <li>DGPU- GTX 1050TI Disabled</li>
+  <li>Audio- ALC295 (Layout-id=3)</li>
+  <li>Wifi and Bluetooth- Intel Dual Band AC</li>
 
 ***THINGS TO REMEMBER****
-1. Flash your own SMBIOS from SMBIOSGen
+1. Flash your own SMBIOS from SMBIOSGen by acidanthera
 2. Reset NVRAM for sure
-3. Charge once full to 100% and drain the battery fully it will calibrate and improve battery life.
-4.  Unlock CFG lock specifying steps below ** It is mandatory because it will unlock cpu configuration by patches.
+3. Charge once full to 100% and drain the battery fully it will calibrate and improve the battery life.
+4. Unlock CFG lock specifying steps below ** It is mandatory because it will unlock cpu power management which is configured using kexts.
 
 That's all
 
