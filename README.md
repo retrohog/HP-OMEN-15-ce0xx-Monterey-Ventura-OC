@@ -2,7 +2,7 @@
 <h1> &#128250; HP-OMEN-15-ce0xx-Monterey-OC</h1>
 <p><h2>Device Specs</h2>
   <ul>
-  <li>CPU- I5-73000HQ</li>
+  <li>CPU- I5-7300HQ</li>
   <li>IGPU- INTEL HD 630</li>
   <li>DGPU- GTX 1050TI Disabled</li>
   <li>Audio- ALC295 (Layout-id=3)</li>
