@@ -32,7 +32,7 @@
   <li>Enter setup_var 0x123 0x00 command, where 0x123 should be replaced by your actual offset, and reboot.</li>
 
 Here we go fully stable and everything works no need to work on anything just copy,
-<a href="https://drive.google.com/file/d/1cROwBGMTvLojx4lqVVg3mjAGWXNI8tZz/view?usp=sharing">
+![](images/About.png)
 
 IF YOU GET ANY BUGS OR ISSUES PLEASE PULL A REQUEST WILL IMPROVE OR FIX THAT.
 
