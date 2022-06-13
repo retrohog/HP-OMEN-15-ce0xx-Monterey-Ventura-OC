@@ -16,6 +16,7 @@
   <li>Reset NVRAM for sure</li>
   <li>Charge once full to 100% and drain the battery fully it will calibrate and improve the battery life.</li>
   <li>Unlock CFG lock specifying steps below ** It is mandatory because it will unlock cpu power management which is configured using kexts</li>
+  
 
   <h4>That's all</h4>
 </p>
@@ -31,7 +32,7 @@
   <li>Enter setup_var 0x123 0x00 command, where 0x123 should be replaced by your actual offset, and reboot.</li>
 
 Here we go fully stable and everything works no need to work on anything just copy,
-
+<a href="https://drive.google.com/file/d/1cROwBGMTvLojx4lqVVg3mjAGWXNI8tZz/view?usp=sharing">
 
 IF YOU GET ANY BUGS OR ISSUES PLEASE PULL A REQUEST WILL IMPROVE OR FIX THAT.
 
