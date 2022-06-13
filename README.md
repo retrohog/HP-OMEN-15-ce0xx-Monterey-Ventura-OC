@@ -37,7 +37,6 @@ Here we go fully stable and everything works no need to work on anything just co
 ![](images/PCI slots.png)
 ![](images/Power.png)
 ![](images/Ram.png)
-![](images/Card Reader.png)
 
 IF YOU GET ANY BUGS OR ISSUES PLEASE PULL A REQUEST WILL IMPROVE OR FIX THAT.
 
