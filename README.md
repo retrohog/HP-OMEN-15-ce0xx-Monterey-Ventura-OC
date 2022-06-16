@@ -1,6 +1,5 @@
 <html>
 <h1> &#128250; HP-OMEN-15-ce0xx-Monterey-OC</h1>
-  <h1> Please do make your own config.plist i am posting the options below please read them.</h1>
   <h3> I suggest you to install using olarila vanilla image. <a href="https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos/">Olarila</a></h3>
   <p><h2>Device Specs</h2>
   <ul>
