@@ -13,6 +13,13 @@
 > WIFI and BLUETOOTH- Intel Dual Band AC-7265
 
 
+## Preview
+![status](images/Status.PNG)
+![scores](images/newscore.PNG)
+![oscore](images/oldscore.PNG)
+![airdrop](images/Airdrop.PNG)
+
+
 ## Things to Remember
 
 
