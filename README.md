@@ -16,7 +16,7 @@
 ## Preview
 ![status](images/Status.PNG)
 ![scores](images/newscore.PNG)
-![oscore](images/oldscore.PNG)
+![oscore](images/oldscore.png)
 ![airdrop](images/Airdrop.PNG)
 
 
