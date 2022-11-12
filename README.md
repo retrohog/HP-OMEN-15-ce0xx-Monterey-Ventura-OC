@@ -1,11 +1,12 @@
 <html>
-<h1> &#128250; HP-OMEN-15-ce0xx-Monterey-OC</h1>
+<h1> &#128250; HP OMEN 15-ce0xx Ventura Opencore EFI</h1>
   <h3> I suggest you to install using olarila vanilla image. <a href="https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos/">Olarila</a></h3>
   <p><h2>Device Specs</h2>
   <ul>
   <li>CPU- I5-7300HQ</li>
-  <li>IGPU- INTEL HD 630</li>
-  <li>DGPU- GTX 1050TI Disabled</li>
+  <li OMEN 15-ce0xx Ventura Opencore EFI
+  <l
+  align-items: flex-start;i>DGPU- GTX 1050TI Disabled</li>
   <li>Audio- ALC295 (Layout-id=3)</li>
   <li>Wifi and Bluetooth- Intel Dual Band AC</li>
   </ul>
